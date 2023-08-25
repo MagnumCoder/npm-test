@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MagnumCoder/npm-test/issues"
   },
-  "homepage": "https://github.com/MagnumCoder/npm-test#readme"
+  "homepage": "https://github.com/MagnumCoder/npm-test#readme",
+  "dependencies": {
+    "isprime": "^0.0.2"
+  }
 }
